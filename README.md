@@ -41,8 +41,10 @@ You can now access the server at http://localhost:8000
 
 ## Features
 
- - Guest only can read the post
+ - Guest only can read the post, search user, see post with relateable category.
+ - Guest can register for new account
  - authentication and authorization for User or Admin
  - User can make CRUD Operation on dashboard
- - admin can banned user and make new admin and controller antoher user post
+ - admin can banned user, make new admin, and controller antoher user post
+ - also admin can controlled category from post or making new category
  - simplify ui/ux with bootstrap
